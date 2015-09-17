@@ -1,3 +1,4 @@
 <?php
-echo "тест";
+$data = "тест";
+echo $data;
 ?>
